@@ -155,7 +155,6 @@ No known bugs at this time.
 
 ## Authors
 Alex Otara - [Github](https://github.com/OtaraAlex)
-
 Livinus Miracle - [Github](https://github.com/mirapeak)
 
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
